@@ -1,5 +1,6 @@
 
 #include "Game.h"
+#include "include/SDL_image.h"
 
 using namespace std;
 
